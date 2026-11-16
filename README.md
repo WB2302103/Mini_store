@@ -1,4 +1,4 @@
-# ministore
+# Ministore
 
 A new Flutter project.
 
